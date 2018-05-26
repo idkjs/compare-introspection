@@ -1,0 +1,13 @@
+{
+  "name": "compare-introspection",
+  "version": "1.0.0",
+  "description":
+    "## diff on introspection for [graphql/ppx](https://github.com/mhallin/graphql_ppx/blob/master/sendIntrospectionQuery.js) and [graphql/utilities] from [aws-appsync-codegen](https://github.com/awslabs/aws-appsync-codegen/blob/master/package.json) which uses the introspection query package from [graphql-js](https://github.com/graphql/graphql-js/blob/master/src/utilities/introspectionQuery.js)",
+  "main": "graphqlUtilities.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["graphql/ppx", "graphql-js", "reason-apollo"],
+  "author": "",
+  "license": "ISC"
+}
